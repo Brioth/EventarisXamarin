@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v8.0": {
+    "MonoAndroid,Version=v8.1": {
       "FastAndroidCamera/2.0.0": {
         "type": "package",
         "compile": {
@@ -1050,7 +1050,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v8.0": [
+    "MonoAndroid,Version=v8.1": [
       "EventarisXamarin >= 1.0.0",
       "MvvmLightLibsStd10 >= 5.4.1",
       "Xamarin.Android.Support.Design >= 25.4.0.2",
@@ -1084,14 +1084,14 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid80"
+        "monoandroid81"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid80": {
+        "monoandroid81": {
           "projectReferences": {
             "D:\\EventarisXamarin\\EventarisXamarin\\EventarisXamarin\\EventarisXamarin\\EventarisXamarin.csproj": {
               "projectPath": "D:\\EventarisXamarin\\EventarisXamarin\\EventarisXamarin\\EventarisXamarin\\EventarisXamarin.csproj"
@@ -1101,7 +1101,7 @@
       }
     },
     "frameworks": {
-      "monoandroid80": {
+      "monoandroid81": {
         "dependencies": {
           "MvvmLightLibsStd10": {
             "target": "Package",
