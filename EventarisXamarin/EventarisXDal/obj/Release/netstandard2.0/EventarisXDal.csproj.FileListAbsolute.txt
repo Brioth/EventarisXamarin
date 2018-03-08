@@ -1,0 +1,11 @@
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\bin\Release\netstandard2.0\EventarisXDal.deps.json
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\bin\Release\netstandard2.0\EventarisXDal.dll
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\bin\Release\netstandard2.0\EventarisXDal.pdb
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\bin\Release\netstandard2.0\Eventaris.Domain.dll
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\bin\Release\netstandard2.0\Eventaris.Domain.pdb
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\obj\Release\netstandard2.0\EventarisXDal.csprojResolveAssemblyReference.cache
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\obj\Release\netstandard2.0\EventarisXDal.csproj.CoreCompileInputs.cache
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\obj\Release\netstandard2.0\EventarisXDal.AssemblyInfoInputs.cache
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\obj\Release\netstandard2.0\EventarisXDal.AssemblyInfo.cs
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\obj\Release\netstandard2.0\EventarisXDal.dll
+D:\EventarisXamarin\EventarisXamarin\EventarisXDal\obj\Release\netstandard2.0\EventarisXDal.pdb

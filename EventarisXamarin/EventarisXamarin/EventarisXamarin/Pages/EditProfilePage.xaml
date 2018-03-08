@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EventarisXamarin.Pages.EditProfilePage"
+             Title="Edit profile">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Text="Last Name: " Grid.Column="0" Grid.Row="0"/>
+        <Entry Text="{Binding User.LastName, Mode=TwoWay}" Grid.Column="1" Grid.Row="0"/>
+        <Label Text="First Name: " Grid.Column="0" Grid.Row="1"/>
+        <Entry Text="{Binding User.FirstName, Mode=TwoWay}" Grid.Column="1" Grid.Row="1"/>
+        <Button Text="Save" Command="{Binding SaveCommand}" Grid.Column="1" Grid.Row="2"/>
+
+    </Grid>
+</ContentPage>
